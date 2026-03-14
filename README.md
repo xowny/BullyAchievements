@@ -1,6 +1,6 @@
 # BullyAchievements
 
-`BullyAchievements` is an achievements restoration mod for `Bully: Scholarship Edition`.
+`BullyAchievements` Adds a full achievements system to the game `Bully: Scholarship Edition`, including both Anniversary Edition and PS4 exclusive achievements.
 
 This repository contains both halves of the mod:
 
