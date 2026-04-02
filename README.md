@@ -1,5 +1,8 @@
 # BullyAchievements
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 `BullyAchievements` Adds a full achievements system to the game `Bully: Scholarship Edition`, including both Anniversary Edition and PS4 exclusive achievements.
 
 This repository contains both halves of the mod:
