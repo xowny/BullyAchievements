@@ -1,6 +1,6 @@
 # BullyAchievements
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 
 `Achievements` Adds a full achievements system to the game `Bully: Scholarship Edition`, including both Anniversary Edition and the PS4 exclusive achievements.
